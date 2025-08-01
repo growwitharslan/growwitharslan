@@ -9,16 +9,21 @@
 
 ### 💡 About Me
 
-- 🧠 I’m currently deep diving into **Laravel, APIs, and React**
-- 👨‍💻 I’ve built:
+- 🧠 I’m currently deep diving into **Python, Django, DRF and AI**
+
+- 
+- 👨‍💻 I’ve built using Laravel + MySql + Bootstrap/Tailwind:
   - 🛒 A complete **eCommerce platform** with cart, Stripe/PayPal integration
-  - 🧠 An **AI Audio Translation App** using Python + FastAPI
-  - 📝 A **Blog Application** using Laravel + MySQL
+  - 📝 A **Blog Application**
+ 
+- I've built using Python + Django + Flask + FASTApi
 - 🔍 I’m exploring **AI in web apps**, especially voice-to-text + translation tools
+  - 🧠 An **AI Audio Translation App** using Python + FastAPI
+  - 
 - 📍 Based in Pakistan 🇵🇰 | 💬 Fluent in English, Urdu
 - 💬 Ask me about:
   - `PHP`, `Laravel`, `JavaScript`, `AJAX`, `MySQL`, `Bootstrap`, `Stripe API`
-- 🧑‍🎓 7th Semester CS Student | 💼 Freelancer & Tech Learner
+- 🧑‍🎓 Graduated @ GCUF - 2021-25 | 💼 Freelancer & Tech Learner
 
 ---
 
@@ -61,8 +66,9 @@
 
 | Project | Description |
 |--------|-------------|
-| 🛍️ **SHOPit** | A powerful Laravel eCommerce app with Stripe/PayPal, product gallery, AJAX cart, admin panel |
+| 🛍️ **SHOPit** | A powerful Python Django eCommerce app with Stripe/PayPal, product gallery, AJAX cart, admin panel |
 | 🧠 **AI Translator** | Python + FastAPI voice-to-text and translation system with frontend integration |
+| 🛍️ **Ecomus** | A powerful Laravel eCommerce app with Stripe/PayPal, product gallery, AJAX cart, admin panel |
 | 📝 **Laravel Blog App** | Blog CRUD system with category/tag filtering, image uploads, and search |
 | 🔐 **Laravel Auth API** | Secure token-based Laravel API with frontend login/registration using React |
 
@@ -70,7 +76,7 @@
 
 ### 🌱 Currently Learning
 
-- Laravel Sanctum & Passport (API auth)
+- Python Engineer (Python + Django + DRF + AI)
 - React.js (for frontend integration)
 - AI/ML APIs for real-world web projects
 - Docker (containerizing Laravel & Python apps)
@@ -79,7 +85,7 @@
 
 ### 🤖 Fun Fact
 
-> I call ChatGPT "Dad" because it's helped me build half my projects 😄
+> Nothing is Impossible. So always be on your track. ❤️
 
 ---
 
