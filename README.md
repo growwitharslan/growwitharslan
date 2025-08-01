@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/growwitharslan/growwitharslan/refs/heads/main/1753913813847.jpeg" alt="GrowWithArslan Banner" width="100%" />
 <h1 align="center">Hey there! 👋 I'm Arslan</h1>
 <h3 align="center">🚀 Full Stack Web Developer | Laravel Enthusiast | AI Explorer</h3>
 
