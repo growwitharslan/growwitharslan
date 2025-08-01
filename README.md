@@ -10,21 +10,19 @@
 ### 💡 About Me
 
 - 🧠 I’m currently deep diving into **Python, Django, DRF and AI**
-
-- 
 - 👨‍💻 I’ve built using Laravel + MySql + Bootstrap/Tailwind:
   - 🛒 A complete **eCommerce platform** with cart, Stripe/PayPal integration
   - 📝 A **Blog Application**
- 
-- I've built using Python + Django + Flask + FASTApi
+
 - 🔍 I’m exploring **AI in web apps**, especially voice-to-text + translation tools
   - 🧠 An **AI Audio Translation App** using Python + FastAPI
-  - 
+
 - 📍 Based in Pakistan 🇵🇰 | 💬 Fluent in English, Urdu
 - 💬 Ask me about:
   - `PHP`, `Laravel`, `JavaScript`, `AJAX`, `MySQL`, `Bootstrap`, `Stripe API`
 - 🧑‍🎓 Graduated @ GCUF - 2021-25 | 💼 Freelancer & Tech Learner
 
+- I am on the road to master Ai. 
 ---
 
 ### 🛠️ Languages & Tools I Use
