@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/growwitharslan/growwitharslan/refs/heads/main/1753913813847.jpeg" alt="GrowWithArslan Banner" width="100%" />
-<h1 align="center">Hey there! 👋 I'm Arslan</h1>
+<h1 align="center">Hey there! 👋 I'm Muhammad Arslan Amjad</h1>
 <h3 align="center">🚀 Full Stack Web Developer | Laravel Enthusiast | AI Explorer</h3>
 
 <p align="center">
@@ -54,7 +54,7 @@
 ### 🔗 Let's Connect
 
 <p align="left">
-  <a href="mailto:arslanamjad4444@gmail.com"><img src="https://img.shields.io/badge/Email-arslanamjad4444@gmail.com-blue?style=flat-square&logo=gmail" /></a>
+  <a href="mailto:growwitharslan0@gmail.com"><img src="https://img.shields.io/badge/Email-growwitharslan@gmail.com-blue?style=flat-square&logo=gmail" /></a>
   <a href="https://linkedin.com/in/growwitharslan"><img src="https://img.shields.io/badge/LinkedIn-growwitharslan-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://github.com/growwitharslan"><img src="https://img.shields.io/badge/GitHub-growwitharslan-black?style=flat-square&logo=github" /></a>
 </p>
