@@ -1,91 +1,123 @@
 <!-- Banner -->
 <img src="https://raw.githubusercontent.com/growwitharslan/growwitharslan/refs/heads/main/1753913813847.jpeg" alt="GrowWithArslan Banner" width="100%" />
 
-<h1 align="center">👋 Hey, I'm Muhammad Arslan Amjad</h1>
-<h3 align="center">💻 Full Stack Developer | PHP & Django & React.js | Exploring AI Solutions</h3>
+<h1 align="center">👋 Hey, I'm <strong>Muhammad Arslan Amjad</strong></h1>
+<h3 align="center">💻 Full Stack Developer | PHP · Django · React.js | Exploring AI Solutions</h3>
 
 <p align="center">
-  <a href="mailto:growwitharslan0@gmail.com"><img src="https://img.shields.io/badge/-growwitharslan0@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/growwitharslan"><img src="https://img.shields.io/badge/GitHub-growwitharslan-181717?style=flat-square&logo=github"/></a>
-  <a href="https://linkedin.com/in/growwitharslan"><img src="https://img.shields.io/badge/LinkedIn-growwitharslan-0077B5?style=flat-square&logo=linkedin"/></a>
+  <a href="mailto:growwitharslan0@gmail.com"><img src="https://img.shields.io/badge/-growwitharslan0@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/growwitharslan"><img src="https://img.shields.io/badge/GitHub-growwitharslan-181717?style=flat&logo=github"/></a>
+  <a href="https://linkedin.com/in/growwitharslan"><img src="https://img.shields.io/badge/LinkedIn-growwitharslan-0077B5?style=flat&logo=linkedin"/></a>
 </p>
 
 ---
 
-### 👨‍💼 About Me
-I'm a **Full Stack Web Developer** in **Lahore, Pakistan 🇵🇰** with expertise in **PHP, Laravel, Django, and React.js**. I build scalable apps with **Stripe/PayPal, REST APIs, and AI**. Currently exploring **FastAPI & Gemini AI** to bring intelligence into web systems.
+## 🧠 About Me  
+
+I’m a **Full Stack Web Developer** from **Lahore, Pakistan 🇵🇰**, skilled in **Laravel, Django, and React.js**, with a passion for building modern, scalable web applications.  
+I integrate **AI, APIs, and secure payment gateways** to deliver seamless digital experiences.  
+Currently exploring **FastAPI & Gemini AI** to fuse web technology with artificial intelligence.
 
 ---
 
-### 🧠 Professional Summary
-- Experience building full-stack apps in **Laravel**, **Django**, **React.js**
-- Strong in **eCommerce**, **RESTful APIs**, **Auth (JWT)**, and **scalable architecture**
-- Passion for **AI integration** and **clean, modular code**
+## 💼 Professional Summary  
+
+- ⚙️ Hands-on experience in **Laravel**, **Django**, and **React.js** for full-stack development.  
+- 🛒 Expertise in **eCommerce**, **REST APIs**, **JWT Authentication**, and **payment integrations**.  
+- 🧩 Strong understanding of **MVC/MVT architecture**, **ORM**, and **scalable app design**.  
+- 🚀 Passionate about building **AI-powered** and **data-driven** applications.  
+- 💼 Working as a **Full Stack Intern at Explore Logics IT Solutions**.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,python,django,react,js,html,css,bootstrap,tailwind,mysql,git,github,vscode,fastapi,linux" />
 </p>
 
-**Core:** PHP, Python, JavaScript, SQL, HTML, CSS  
-**Frameworks:** Laravel, Django, React.js, Bootstrap, Tailwind, jQuery UI  
-**DB:** MySQL  
-**Tools:** FastAPI, Gemini AI, Shadcn UI, Material UI, Postman, Git, cPanel/FTP, REST APIs  
-**Security:** JWT, CSRF/XSS Protection  
-**Other:** AJAX, JSON, MVC/MVT, Pagination & Filtering, Realtime (AJAX Polling)
+**Languages:** PHP · Python · JavaScript · SQL · HTML · CSS  
+**Frameworks/Libraries:** Laravel · Django · React.js · Bootstrap · Tailwind · jQuery UI  
+**Databases:** MySQL  
+**Tools & Tech:** FastAPI · Gemini AI · Shadcn UI · Material UI · Git · Postman · cPanel/FTP  
+**Security:** JWT · CSRF / XSS Protection  
+**Other Skills:** AJAX · JSON · MVC/MVT · Pagination · Realtime Updates · RESTful Design
 
 ---
 
-### 🧩 Experience
-**Explore Logics IT Solutions — Full Stack Intern** *(Jan 2025 – Oct 2025, Lahore)*  
-- Built apps with **Laravel, Django, Core PHP, React.js**  
-- Responsive UIs via **Blade + Bootstrap + React**  
-- **CRUD**, REST integrations, **MySQL** schema & queries  
-- Git workflows with **MVC/MVT** best practices
+## 🧩 Experience  
+
+**Explore Logics IT Solutions – Lahore**  
+*Full Stack Intern | Jan 2025 – Oct 2025*  
+> Contributed to building full-stack web apps using Laravel, Django, Core PHP, and React.js.
+
+- Developed responsive UIs using **Blade templates**, **Bootstrap**, and **React components**.  
+- Implemented **CRUD operations**, **RESTful API integration**, and **MySQL management**.  
+- Collaborated via **Git**, maintaining **MVC/MVT structure** and clean reusable code.  
 
 ---
 
-### 🚀 Projects
-| Project | Stack | Highlights |
-|---|---|---|
-| **Ecomus (Core PHP eCommerce)** | Core PHP, MySQL | Custom admin, cart, **Stripe/PayPal**, email verification |
-| **Fashion Finder (Laravel + Blade)** | Laravel, Blade, Stripe/PayPal | Dynamic cart, category filters, admin product control |
-| **Audio Recognition (FastAPI + Gemini AI)** | FastAPI, Gemini AI | Speech-to-text API, transcription & analysis |
-| **Blog Platform (Laravel)** | Laravel, JWT | Multi-auth, categories, image uploads, secured API |
-| **Blog Platform (Django) — In Progress** | Django, JWT | Categories, search, comments, AJAX likes, email form |
-| **Shopit (Django eCommerce) — In Progress** | Django, Stripe/PayPal | Multi-auth (JWT), real-time AJAX cart, secure checkout |
+## 🚀 Featured Projects  
+
+| Project | Description |
+|----------|-------------|
+| 🛍️ **Ecomus (Core PHP)** | Full eCommerce platform with admin panel, cart system, **Stripe & PayPal** integration, and email verification. |
+| 🛒 **Fashion Finder (Laravel)** | Dynamic cart, category filtering, admin control, and secure checkout with **Stripe/PayPal**. |
+| 🎧 **Audio Recognition (FastAPI + Gemini AI)** | AI-powered **speech-to-text** API with real-time transcription & analysis. |
+| 📝 **Blog Platform (Laravel)** | Multi-auth system with category filters, JWT-secured API, and image uploads. |
+| 🧠 **Blog Platform (Django – In Progress)** | Advanced blog with categories, AJAX likes, JWT auth, and contact form. |
+| 🛒 **Shopit (Django – In Progress)** | Full-featured eCommerce app with JWT multi-auth, AJAX cart, and secure payments. |
 
 ---
 
-### 🎓 Education
-**BSCS — Government College University Faisalabad (2021–2025)**
+## 🎓 Education  
+
+**Bachelor of Science in Computer Science (BSCS)**  
+*Government College University Faisalabad (2021 – 2025)*  
 
 ---
 
-### 📈 GitHub Analytics
+## 📈 GitHub Insights  
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=growwitharslan&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=growwitharslan&layout=compact&theme=radical" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=growwitharslan&theme=radical" />
 </p>
 
 ---
 
-### 🏆 Achievements
+## 🏆 Achievements  
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=growwitharslan&theme=onestar&row=1&margin-w=10" />
 </p>
 
 ---
 
-### 🤝 Contact
-**Email:** growwitharslan0@gmail.com • **Phone:** +92 318 7929963 • **Location:** Lahore, Pakistan
+## 🤝 Contact  
+
+📧 **Email:** [growwitharslan0@gmail.com](mailto:growwitharslan0@gmail.com)  
+📞 **Phone:** +92 318 7929963  
+📍 **Location:** Lahore, Pakistan  
+
+<p align="center">
+  <a href="mailto:growwitharslan0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/growwitharslan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/growwitharslan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-### 💬 Quote
-> “Consistency beats talent. Keep building, keep learning — the future belongs to the persistent.”
+## 💬 Quote to Remember  
+
+> *“Consistency beats talent. Keep building, keep learning — the future belongs to the persistent.”*  
+
+---
+
+<p align="center">
+  <i>✨ Crafted with passion by <a href="https://github.com/growwitharslan">Muhammad Arslan Amjad</a> ✨</i>
+</p>
