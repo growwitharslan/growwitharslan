@@ -1,17 +1,28 @@
-<!-- Banner -->
+<!-- =========================================================
+     PROFILE README — Muhammad Arslan Amjad (GitHub Profile)
+     Fonts note: GitHub blocks custom CSS; we emulate fonts via SVG.
+     ========================================================= -->
+
+<!-- Banner (keep or replace your image) -->
 <img src="https://raw.githubusercontent.com/growwitharslan/growwitharslan/refs/heads/main/1753913813847.jpeg" alt="GrowWithArslan Banner" width="100%" />
 
-<!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Poppins:wght@700&family=Verdana&display=swap" rel="stylesheet">
+<!-- NAME (Poppins via SVG) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=36&duration=3000&pause=600&color=C778DD&center=true&vCenter=true&width=1000&lines=Muhammad+Arslan+Amjad"
+    alt="Muhammad Arslan Amjad"
+  />
+</p>
 
-<div align="center" style="font-family:'Poppins', sans-serif; font-size:42px; margin-top:15px;">
-  👋 Hey, I'm <span style="color:#c778dd;">Muhammad Arslan Amjad</span>
-</div>
+<!-- TAGLINE (Verdana-like via SVG) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=18&duration=1&pause=999999&color=9AA0A6&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%7C+PHP+%C2%B7+Django+%C2%B7+React.js+%7C+Exploring+AI+Solutions"
+    alt="Tagline"
+  />
+</p>
 
-<div align="center" style="font-family:'Verdana', sans-serif; font-size:18px; color:#999;">
-  💻 Full Stack Developer | PHP · Django · React.js | Exploring AI Solutions
-</div>
-
+<!-- CONTACT BADGES -->
 <p align="center">
   <a href="mailto:growwitharslan0@gmail.com"><img src="https://img.shields.io/badge/-growwitharslan0@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/growwitharslan"><img src="https://img.shields.io/badge/GitHub-growwitharslan-181717?style=flat&logo=github"/></a>
@@ -20,27 +31,34 @@
 
 ---
 
-<div style="font-family:'Fira Code', monospace; font-size:15px; line-height:1.6;">
+<!-- SECTION: About Me -->
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Verdana&weight=700&size=20&duration=1&pause=999999&color=FFFFFF&background=1F293780&width=220&height=36&lines=About+Me" alt="About Me" />
+</h2>
 
-## 🧠 About Me  
-
-I’m a **Full Stack Web Developer** from **Lahore, Pakistan 🇵🇰**, skilled in **Laravel, Django, and React.js**, with a passion for building scalable, modern web applications.  
-I integrate **AI, APIs, and secure payment gateways** to deliver seamless digital experiences.  
-Currently exploring **FastAPI & Gemini AI** to fuse web technology with artificial intelligence.
-
----
-
-## 💼 Professional Summary  
-
-- ⚙️ Hands-on experience in **Laravel**, **Django**, and **React.js** for full-stack development.  
-- 🛒 Expertise in **eCommerce**, **REST APIs**, **JWT Authentication**, and **payment integrations**.  
-- 🧩 Strong understanding of **MVC/MVT architecture**, **ORM**, and **scalable app design**.  
-- 🚀 Passionate about building **AI-powered** and **data-driven** applications.  
-- 💼 Working as a **Full Stack Intern at Explore Logics IT Solutions**.
+I’m a **Full Stack Web Developer** based in **Lahore, Pakistan 🇵🇰**, building modern, scalable apps with **Laravel, Django, and React.js**.  
+I integrate **AI**, robust **APIs**, and secure **payment gateways** (Stripe/PayPal) to ship real products.  
+Currently exploring **FastAPI & Gemini AI** to fuse web technology with intelligent features.
 
 ---
 
-## 🛠️ Tech Stack  
+<!-- SECTION: Professional Summary -->
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Verdana&weight=700&size=20&duration=1&pause=999999&color=FFFFFF&background=1F293780&width=320&height=36&lines=Professional+Summary" alt="Professional Summary" />
+</h2>
+
+- eCommerce, **REST APIs**, **JWT authentication**, scalable architecture  
+- **Laravel**, **Django**, **React.js**, **MySQL**, Tailwind/Bootstrap  
+- **MVC/MVT**, ORM, clean code, modular components  
+- Actively integrating **AI** using **FastAPI & Gemini AI**  
+- **Full Stack Intern @ Explore Logics IT Solutions (Jan 2025 – Oct 2025)**
+
+---
+
+<!-- SECTION: Tech Stack -->
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Verdana&weight=700&size=20&duration=1&pause=999999&color=FFFFFF&background=1F293780&width=200&height=36&lines=Tech+Stack" alt="Tech Stack" />
+</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,python,django,react,js,html,css,bootstrap,tailwind,mysql,git,github,vscode,fastapi,linux" />
@@ -48,72 +66,92 @@ Currently exploring **FastAPI & Gemini AI** to fuse web technology with artifici
 
 **Languages:** PHP · Python · JavaScript · SQL · HTML · CSS  
 **Frameworks/Libraries:** Laravel · Django · React.js · Bootstrap · Tailwind · jQuery UI  
-**Databases:** MySQL  
-**Tools & Tech:** FastAPI · Gemini AI · Shadcn UI · Material UI · Git · Postman · cPanel/FTP  
-**Security:** JWT · CSRF / XSS Protection  
-**Other Skills:** AJAX · JSON · MVC/MVT · Pagination · Realtime Updates · RESTful Design
+**Database:** MySQL  
+**Tools & Tech:** FastAPI · Gemini AI · Shadcn UI · Material UI · Git · Postman · cPanel/FTP · REST APIs  
+**Security:** JWT · CSRF/XSS Protection  
+**Other Skills:** AJAX · JSON · MVC/MVT · Pagination & Filtering · Realtime (AJAX Polling) · RESTful Design
 
 ---
 
-## 🧩 Experience  
+<!-- SECTION: Experience -->
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Verdana&weight=700&size=20&duration=1&pause=999999&color=FFFFFF&background=1F293780&width=210&height=36&lines=Experience" alt="Experience" />
+</h2>
 
 **Explore Logics IT Solutions – Lahore**  
 *Full Stack Intern | Jan 2025 – Oct 2025*  
-
-- Developed responsive UIs using **Blade templates**, **Bootstrap**, and **React components**.  
-- Implemented **CRUD operations**, **RESTful API integration**, and **MySQL management**.  
-- Collaborated through **Git**, maintaining **MVC/MVT structure** and reusable code.  
-
----
-
-## 🚀 Featured Projects  
-
-| Project | Description |
-|----------|-------------|
-| 🛍️ **Ecomus (Core PHP)** | Full eCommerce platform with admin panel, cart system, **Stripe & PayPal** integration, and email verification. |
-| 🛒 **Fashion Finder (Laravel)** | Dynamic cart, category filtering, admin control, and secure checkout with **Stripe/PayPal**. |
-| 🎧 **Audio Recognition (FastAPI + Gemini AI)** | AI-powered **speech-to-text** API with real-time transcription & analysis. |
-| 📝 **Blog Platform (Laravel)** | Multi-auth system with category filters, JWT-secured API, and image uploads. |
-| 🧠 **Blog Platform (Django – In Progress)** | Advanced blog with categories, AJAX likes, JWT auth, and contact form. |
-| 🛒 **Shopit (Django – In Progress)** | Full-featured eCommerce app with JWT multi-auth, AJAX cart, and secure payments. |
+- Built full-stack apps using **Laravel**, **Django**, **Core PHP**, **React.js**  
+- Responsive UIs via **Blade templates**, **Bootstrap**, and **React components**  
+- Implemented **CRUD**, **RESTful API integration**, and **MySQL** management  
+- Collaborated through **Git**, maintaining **MVC/MVT** and reusable code
 
 ---
 
-## 🎓 Education  
+<!-- SECTION: Projects -->
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Verdana&weight=700&size=20&duration=1&pause=999999&color=FFFFFF&background=1F293780&width=180&height=36&lines=Projects" alt="Projects" />
+</h2>
 
-**Bachelor of Science in Computer Science (BSCS)**  
-*Government College University Faisalabad (2021 – 2025)*  
+| Project | Stack | Highlights |
+|---|---|---|
+| **Ecomus (Core PHP)** | Core PHP · MySQL | Custom admin, cart, **Stripe/PayPal**, email verification |
+| **Fashion Finder (Laravel)** | Laravel · Blade | Dynamic cart, category filters, admin product control, secure checkout |
+| **Audio Recognition (FastAPI + Gemini AI)** | FastAPI · Gemini AI | **Speech-to-text** API, transcription & analysis |
+| **Blog Platform (Laravel)** | Laravel · JWT | Multi-auth, categories, image uploads, secured API routes |
+| **Blog Platform (Django) – In Progress** | Django · JWT | Categories, search, comments, AJAX likes, email form |
+| **Shopit (Django eCommerce) – In Progress** | Django · Stripe/PayPal | JWT multi-auth, real-time AJAX cart, secure payments |
+
+> Tip: You can add direct GitHub links like  
+> `🔗 https://github.com/growwitharslan/<repo-name>`
 
 ---
 
-## 📈 GitHub Insights  
+<!-- SECTION: Education -->
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Verdana&weight=700&size=20&duration=1&pause=999999&color=FFFFFF&background=1F293780&width=210&height=36&lines=Education" alt="Education" />
+</h2>
+
+**BSCS — Government College University Faisalabad (2021–2025)**
+
+---
+
+<!-- SECTION: GitHub Insights -->
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Verdana&weight=700&size=20&duration=1&pause=999999&color=FFFFFF&background=1F293780&width=260&height=36&lines=GitHub+Insights" alt="GitHub Insights" />
+</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=growwitharslan&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=growwitharslan&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=growwitharslan&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=growwitharslan&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=growwitharslan&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=growwitharslan&theme=radical" alt="GitHub streak" />
 </p>
 
 ---
 
-## 🏆 Achievements  
+<!-- SECTION: Achievements -->
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Verdana&weight=700&size=20&duration=1&pause=999999&color=FFFFFF&background=1F293780&width=230&height=36&lines=Achievements" alt="Achievements" />
+</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=growwitharslan&theme=onestar&row=1&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=growwitharslan&theme=onestar&row=1&margin-w=10" alt="Trophies" />
 </p>
 
 ---
 
-## 🤝 Contact  
+<!-- SECTION: Contact -->
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Verdana&weight=700&size=20&duration=1&pause=999999&color=FFFFFF&background=1F293780&width=180&height=36&lines=Contact" alt="Contact" />
+</h2>
 
-📧 **Email:** [growwitharslan0@gmail.com](mailto:growwitharslan0@gmail.com)  
-📞 **Phone:** +92 318 7929963  
-📍 **Location:** Lahore, Pakistan  
+**Email:** [growwitharslan0@gmail.com](mailto:growwitharslan0@gmail.com)  
+**Phone:** +92 318 7929963  
+**Location:** Lahore, Pakistan
 
-<p align="center">
+<p align="left">
   <a href="mailto:growwitharslan0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/growwitharslan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/growwitharslan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -121,14 +159,13 @@ Currently exploring **FastAPI & Gemini AI** to fuse web technology with artifici
 
 ---
 
-## 💬 Quote to Remember  
+<!-- SECTION: Quote -->
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Verdana&weight=700&size=20&duration=1&pause=999999&color=FFFFFF&background=1F293780&width=160&height=36&lines=Quote" alt="Quote" />
+</h2>
 
 > *“Consistency beats talent. Keep building, keep learning — the future belongs to the persistent.”*  
 
----
-
-<p align="center" style="font-family:'Poppins', sans-serif; font-size:14px;">
-  ✨ Crafted with passion by <a href="https://github.com/growwitharslan">Muhammad Arslan Amjad</a> ✨
+<p align="center">
+  <sub>Designed for readability · SVG headers emulate Verdana · Name banner uses Poppins style</sub>
 </p>
-
-</div>
