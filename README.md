@@ -1,40 +1,38 @@
 <img src="https://raw.githubusercontent.com/growwitharslan/growwitharslan/refs/heads/main/1753913813847.jpeg" alt="GrowWithArslan Banner" width="100%" />
-<h1 align="center">Hey there! 👋 I'm Muhammad Arslan Amjad</h1>
-<h3 align="center">🚀 Full Stack Web Developer | Laravel Enthusiast | AI Explorer</h3>
+
+<h1 align="center">👋 Hey there, I'm Muhammad Arslan Amjad</h1>
+<h3 align="center">🚀 Full Stack Web Developer | Laravel Artisan | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=growwitharslan&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=growwitharslan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
 ### 💡 About Me
 
-- 🧠 I’m currently deep diving into **Python, Django, DRF and AI**
-- 👨‍💻 I’ve built using Laravel + MySql + Bootstrap/Tailwind:
-  - 🛒 A complete **eCommerce platform** with cart, Stripe/PayPal integration
-  - 📝 A **Blog Application**
+- 🧠 Currently diving deep into **Python, Django, DRF & Artificial Intelligence**
+- 💻 Experienced with **Laravel + MySQL + Bootstrap/Tailwind** stack  
+  - 🛒 Built complete **eCommerce platforms** with Stripe/PayPal integration  
+  - 📝 Developed scalable **Blog Applications** with search & CRUD systems  
+- 🔍 Exploring **AI-powered web applications**, including:  
+  - 🧠 **AI Audio Translator** using *FastAPI* and *Speech Recognition*  
+- 🌍 Based in **Pakistan 🇵🇰** | Fluent in **English & Urdu**
+- 💬 Ask me about: `PHP`, `Laravel`, `JavaScript`, `AJAX`, `MySQL`, `Stripe API`
+- 🎓 Graduate of **GCUF (2021–2025)** | 💼 Freelancer & Tech Learner
+- 🧩 On a mission to **master AI** and integrate it into modern web systems
 
-- 🔍 I’m exploring **AI in web apps**, especially voice-to-text + translation tools
-  - 🧠 An **AI Audio Translation App** using Python + FastAPI
-
-- 📍 Based in Pakistan 🇵🇰 | 💬 Fluent in English, Urdu
-- 💬 Ask me about:
-  - `PHP`, `Laravel`, `JavaScript`, `AJAX`, `MySQL`, `Bootstrap`, `Stripe API`
-- 🧑‍🎓 Graduated @ GCUF - 2021-25 | 💼 Freelancer & Tech Learner
-
-- I am on the road to master Ai. 
 ---
 
-### 🛠️ Languages & Tools I Use
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,mysql,react,nodejs,git,github,vscode,python,django,tailwind,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,tailwind,mysql,react,nodejs,git,github,vscode,python,django,linux" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=growwitharslan&show_icons=true&theme=radical&hide_border=false" />
@@ -51,39 +49,49 @@
 
 ---
 
-### 🔗 Let's Connect
+### 🔗 Connect With Me
 
-<p align="left">
-  <a href="mailto:growwitharslan0@gmail.com"><img src="https://img.shields.io/badge/Email-growwitharslan@gmail.com-blue?style=flat-square&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/growwitharslan"><img src="https://img.shields.io/badge/LinkedIn-growwitharslan-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://github.com/growwitharslan"><img src="https://img.shields.io/badge/GitHub-growwitharslan-black?style=flat-square&logo=github" /></a>
+<p align="center">
+  <a href="mailto:growwitharslan0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-growwitharslan0%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/growwitharslan">
+    <img src="https://img.shields.io/badge/LinkedIn-growwitharslan-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/growwitharslan">
+    <img src="https://img.shields.io/badge/GitHub-growwitharslan-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Featured Projects (Pin These on GitHub!)
+### 🚀 Featured Projects
 
 | Project | Description |
-|--------|-------------|
-| 🛍️ **SHOPit** | A powerful Python Django eCommerce app with Stripe/PayPal, product gallery, AJAX cart, admin panel |
-| 🧠 **AI Translator** | Python + FastAPI voice-to-text and translation system with frontend integration |
-| 🛍️ **Ecomus** | A powerful Laravel eCommerce app with Stripe/PayPal, product gallery, AJAX cart, admin panel |
-| 📝 **Laravel Blog App** | Blog CRUD system with category/tag filtering, image uploads, and search |
-| 🔐 **Laravel Auth API** | Secure token-based Laravel API with frontend login/registration using React |
+|----------|-------------|
+| 🛍️ **SHOPit** | A Django eCommerce app with Stripe/PayPal, AJAX cart, and admin panel |
+| 🧠 **AI Translator** | FastAPI-based AI voice-to-text & translation web app |
+| 🛒 **Ecomus** | A Laravel eCommerce solution with secure checkout & admin dashboard |
+| 📝 **Laravel Blog App** | Blog CRUD system with tag filtering, search, and image uploads |
+| 🔐 **Laravel Auth API** | Token-based Laravel REST API with React authentication |
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 What I’m Learning
 
-- Python Engineer (Python + Django + DRF + AI)
-- React.js (for frontend integration)
-- AI/ML APIs for real-world web projects
-- Docker (containerizing Laravel & Python apps)
+- ⚙️ Python & Django REST Framework for scalable apps  
+- ⚛️ React.js for modern front-end development  
+- 🧠 AI/ML APIs for real-world automation  
+- 🐳 Docker for deployment and containerization  
 
 ---
 
 ### 🤖 Fun Fact
 
-> Nothing is Impossible. So always be on your track. ❤️
+> “Nothing is impossible — consistency turns dreams into results.” ❤️
 
 ---
+
+<p align="center">
+  <i>✨ Crafted with passion by <a href="https://github.com/growwitharslan">Muhammad Arslan Amjad</a> ✨</i>
+</p>
