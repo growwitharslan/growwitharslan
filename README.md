@@ -26,7 +26,6 @@
 <p align="center">
   <a href="mailto:growwitharslan0@gmail.com"><img src="https://img.shields.io/badge/-growwitharslan0@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/growwitharslan"><img src="https://img.shields.io/badge/GitHub-growwitharslan-181717?style=flat&logo=github"/></a>
-  <a href="https://linkedin.com/in/growwitharslan"><img src="https://img.shields.io/badge/LinkedIn-growwitharslan-0077B5?style=flat&logo=linkedin"/></a>
 </p>
 
 ---
@@ -166,6 +165,4 @@ Currently exploring **FastAPI & Gemini AI** to fuse web technology with intellig
 
 > *“Consistency beats talent. Keep building, keep learning — the future belongs to the persistent.”*  
 
-<p align="center">
-  <sub>Designed for readability · SVG headers emulate Verdana · Name banner uses Poppins style</sub>
-</p>
+
