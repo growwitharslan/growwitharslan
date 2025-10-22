@@ -1,8 +1,16 @@
 <!-- Banner -->
 <img src="https://raw.githubusercontent.com/growwitharslan/growwitharslan/refs/heads/main/1753913813847.jpeg" alt="GrowWithArslan Banner" width="100%" />
 
-<h1 align="center">👋 Hey, I'm <strong>Muhammad Arslan Amjad</strong></h1>
-<h3 align="center">💻 Full Stack Developer | PHP · Django · React.js | Exploring AI Solutions</h3>
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Poppins:wght@700&family=Verdana&display=swap" rel="stylesheet">
+
+<div align="center" style="font-family:'Poppins', sans-serif; font-size:42px; margin-top:15px;">
+  👋 Hey, I'm <span style="color:#c778dd;">Muhammad Arslan Amjad</span>
+</div>
+
+<div align="center" style="font-family:'Verdana', sans-serif; font-size:18px; color:#999;">
+  💻 Full Stack Developer | PHP · Django · React.js | Exploring AI Solutions
+</div>
 
 <p align="center">
   <a href="mailto:growwitharslan0@gmail.com"><img src="https://img.shields.io/badge/-growwitharslan0@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
@@ -12,9 +20,11 @@
 
 ---
 
+<div style="font-family:'Fira Code', monospace; font-size:15px; line-height:1.6;">
+
 ## 🧠 About Me  
 
-I’m a **Full Stack Web Developer** from **Lahore, Pakistan 🇵🇰**, skilled in **Laravel, Django, and React.js**, with a passion for building modern, scalable web applications.  
+I’m a **Full Stack Web Developer** from **Lahore, Pakistan 🇵🇰**, skilled in **Laravel, Django, and React.js**, with a passion for building scalable, modern web applications.  
 I integrate **AI, APIs, and secure payment gateways** to deliver seamless digital experiences.  
 Currently exploring **FastAPI & Gemini AI** to fuse web technology with artificial intelligence.
 
@@ -49,11 +59,10 @@ Currently exploring **FastAPI & Gemini AI** to fuse web technology with artifici
 
 **Explore Logics IT Solutions – Lahore**  
 *Full Stack Intern | Jan 2025 – Oct 2025*  
-> Contributed to building full-stack web apps using Laravel, Django, Core PHP, and React.js.
 
 - Developed responsive UIs using **Blade templates**, **Bootstrap**, and **React components**.  
 - Implemented **CRUD operations**, **RESTful API integration**, and **MySQL management**.  
-- Collaborated via **Git**, maintaining **MVC/MVT structure** and clean reusable code.  
+- Collaborated through **Git**, maintaining **MVC/MVT structure** and reusable code.  
 
 ---
 
@@ -118,6 +127,8 @@ Currently exploring **FastAPI & Gemini AI** to fuse web technology with artifici
 
 ---
 
-<p align="center">
-  <i>✨ Crafted with passion by <a href="https://github.com/growwitharslan">Muhammad Arslan Amjad</a> ✨</i>
+<p align="center" style="font-family:'Poppins', sans-serif; font-size:14px;">
+  ✨ Crafted with passion by <a href="https://github.com/growwitharslan">Muhammad Arslan Amjad</a> ✨
 </p>
+
+</div>
